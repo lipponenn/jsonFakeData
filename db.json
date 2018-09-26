@@ -1,41 +1,4 @@
 {
-	"utskrift": [{
-			"pos": 1,
-			"stalsort": "280T",
-			"rubrik": "V",
-			"dim": 120,
-			"kg": 256,
-			"ramatt": 110.00,
-			"MeterviktIKiloRamatt_KGMR": 35.14
-		},
-		{
-			"pos": 2,
-			"stalsort": "280T",
-			"rubrik": "VSV",
-			"dim": 150,
-			"kg": 359,
-			"ramatt": 110.00,
-			"MeterviktIKiloRamatt_KGMR": 35.14
-		},
-		{
-			"pos": 3,
-			"stalsort": "280T",
-			"rubrik": "k",
-			"dim": 0,
-			"kg": 0,
-			"ramatt": 110.00,
-			"MeterviktIKiloRamatt_KGMR": 35.14
-		},
-		{
-			"pos": 4,
-			"stalsort": "280T",
-			"rubrik": "V",
-			"dim": 120,
-			"kg": 256,
-			"ramatt": 110.00,
-			"MeterviktIKiloRamatt_KGMR": 35.14
-		}
-	],
 	"for180": [{
 			"produktKategori_KAT": "String",
 			"Rorverk_ROVRK": 4,
