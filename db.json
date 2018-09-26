@@ -72,19 +72,41 @@
 		}
 	],
 	"for150": [{
-			"produktKategori_KAT": "String",
-			"Typnr_TYP": 4,
-			"YtterLeveransMattsokning_YDIAL": 121.0,
-			"InnerLeveransMattsokning_IDIAL": 91.2,
-			"Prodnr_PRODNR": 1293,
-			"Varme_V": 1,
-			"vb_VB": 123,
-			"rv_RV": "280T",
-			"dim_DIM": 1.23,
-			"vikt_VIKT": 1412,
-			"langd_LANGD": 129,
-			"forl_FORL": 15,
-			"prio_PRIO": "VERY HIGH"
+		"produktKategori_KAT": "String",
+		"Typnr_TYP": 4,
+		"YtterLeveransMattsokning_YDIAL": 121.0,
+		"InnerLeveransMattsokning_IDIAL": 91.2,
+		"Prodnr_PRODNR": 1293,
+		"Varme_V": 1,
+		"vb_VB": 123,
+		"rv_RV": "280T",
+		"dim_DIM": 1.23,
+		"vikt_VIKT": 1412,
+		"langd_LANGD": 129,
+		"forl_FORL": 15,
+		"prio_PRIO": "VERY HIGH"
+	}],
+	"for200": [{
+			"Offertnr_OFFNR": "20180426",
+			"Position_POS": 221,
+			"AltPos_ALTPOS": "0B1",
+			"Rubrikkod_RUBKD": "VS",
+			"Rorverk_ROVRK": "4",
+			"Andringsdatum_DATANDR": "1804260102",
+			"Kundnrsokning_KUNNR": "123",
+			"Kundnamnsokn_KNAMN": "OVAKO",
+			"Signatur_SIGNT": "DANIEEM"
+		},
+		{
+			"Offertnr_OFFNR": "20180427",
+			"Position_POS": 222,
+			"AltPos_ALTPOS": "0B2",
+			"Rubrikkod_RUBKD": "VSG",
+			"Rorverk_ROVRK": "5",
+			"Andringsdatum_DATANDR": "1804260103",
+			"Kundnrsokning_KUNNR": "1234",
+			"Kundnamnsokn_KNAMN": "OVAKOS",
+			"Signatur_SIGNT": "DANIEEMS"
 		}
 	]
 }
